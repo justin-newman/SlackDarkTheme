@@ -380,7 +380,7 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] { backg
 
 #special_formatting_text { color: #949494; }
 
-#message_edit_container .message_input, .inline_message_input_container .message_input { color: #e6e6e6; }
+#message_edit_container .message_input, .inline_message_input_container .message_input { color: #545454; }
 
 .inline_message_input_container .ql-container { border-color: #545454; }
 
