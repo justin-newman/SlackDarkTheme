@@ -2249,7 +2249,7 @@ span.match { background: rgba(191, 54, 12, 0.25); }
 
 #convo_tab textarea.message_input { color: #e6e6e6; }
 
-.inline_file_upload { background: #545454 !important; }
+.inline_message_input_container with_file_upload { background: #545454 !important; }
 
 #reply_container .inline_message_input_container .message_input div, #reply_container .inline_message_input_container textarea, .reply_input_container .inline_message_input_container .message_input div, .reply_input_container .inline_message_input_container textarea { border-color: #363636; background: #545454 !important; color: #e6e6e6; }
 
